@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b7d8461-041a-42e1-a47f-eb41d70ab08d": {
+      "ProjectGuid": "4b7d8461-041a-42e1-a47f-eb41d70ab08d",
+      "DisplayName": "GrabCut",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
